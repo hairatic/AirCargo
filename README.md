@@ -3,8 +3,11 @@
 **Usage:**
 
 show-flights                         // shows flight schedule
+
 add-flights --filename flights.json  // add flights to schedule
+
 add-orders --filename orders.json    // dispatch orders to existing flights
+
 
 Implemented functional requirements:
 

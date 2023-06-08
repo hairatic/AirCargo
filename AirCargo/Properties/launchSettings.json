@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "AirCargo": {
+      "commandName": "Project",
+      "commandLineArgs": "add-orders --filename orders.json"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
